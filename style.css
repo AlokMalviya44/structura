@@ -1,0 +1,11 @@
+.effect{
+    background: linear-gradient(transparent, black);
+}
+.card1 img{
+    position: absolute;
+   object-fit: cover;
+   width: 100%;
+}
+.card1 :hover img{
+    width: 420px;
+}
